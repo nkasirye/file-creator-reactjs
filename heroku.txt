@@ -1,3 +1,5 @@
 Creating app... done, ⬢ polar-fjord-34522
 Setting buildpack to https://github.com/mars/create-react-app-buildpack.git... done
 https://polar-fjord-34522.herokuapp.com/ | https://git.heroku.com/polar-fjord-34522.git
+
+git push heroku master
